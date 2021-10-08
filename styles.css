@@ -207,11 +207,14 @@ body,html{
       display: flex;
       margin-top: 25px;
       justify-content: center;
+      height: 100%;
   }
 
   .box6{
     display: flex;
     margin-top: 25px;
+    padding: 25px;
+    height: 100%;
     justify-content: center;
 }
 .imageEncu{
@@ -226,7 +229,7 @@ body,html{
 }
 
 .opiniones{
-    margin-top: 45px;
+    margin-top: 85px;
     padding: 45px;
 
     

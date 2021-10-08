@@ -19,13 +19,15 @@ sr.reveal('.section03',{});
 sr.reveal('.titleSection3',{delay: 400}); 
 sr.reveal('.titleI',{delay: 400});
 sr.reveal('.titleE',{delay: 400});
+sr.reveal('.imageEncu',{delay: 200}); 
 
+sr.reveal('.options',{}); 
 
 
 
 const srl = ScrollReveal({
   origin: 'left',
-  distance: '80px',
+  distance: '90px',
   duration: 2000,
   reset: true
 });
@@ -35,7 +37,6 @@ srl.reveal('.section03',{});
 srl.reveal('.box1',{delay: 400}); 
 srl.reveal('.box2',{}); 
 srl.reveal('.left',{delay: 400}); 
-srl.reveal('.box6',{delay: 400}); 
 
 
 
@@ -60,4 +61,3 @@ const srd = ScrollReveal({
 });
 
 sr.reveal('.center',{delay: 400}); 
-sr.reveal('.imageEncu',{delay: 400}); 
