@@ -59,5 +59,5 @@ const srd = ScrollReveal({
   reset: true
 });
 
-srd.reveal('.center',{delay: 400}); 
-srd.reveal('.imageEncu',{delay: 400}); 
+sr.reveal('.center',{delay: 400}); 
+sr.reveal('.imageEncu',{delay: 400}); 
